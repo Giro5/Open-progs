@@ -1,0 +1,9 @@
+C:\Users\Giro\source\repos\open progs\open progs\obj\Debug\open progs.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\open progs\open progs\obj\Debug\open_progs.Properties.Resources.resources
+C:\Users\Giro\source\repos\open progs\open progs\obj\Debug\open progs.csproj.GenerateResource.cache
+C:\Users\Giro\source\repos\open progs\open progs\obj\Debug\open progs.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\open progs\open progs\bin\Debug\Open C# progs.exe.config
+C:\Users\Giro\source\repos\open progs\open progs\bin\Debug\Open C# progs.exe
+C:\Users\Giro\source\repos\open progs\open progs\bin\Debug\Open C# progs.pdb
+C:\Users\Giro\source\repos\open progs\open progs\obj\Debug\Open C# progs.exe
+C:\Users\Giro\source\repos\open progs\open progs\obj\Debug\Open C# progs.pdb
